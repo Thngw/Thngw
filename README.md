@@ -9,7 +9,7 @@
 - Experienced in **system analysis**, **business requirement understanding**, and **process modeling**.
 - Comfortable working with **data, reports, and analytical thinking** to support business and decision-making.
 - Technical background in **SQL, Python, and web-based systems**, with experience in system-related projects.
-- Contact me: **hathithuong181@gmail.com**
+- Contact me: **hathithuong181@gmail.com** or **meoxinhh04@gmail.com** 
 
 ---
 
